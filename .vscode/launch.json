@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open about.html",
+            "file": "c:\\Users\\jarie\\OneDrive\\Desktop\\Texas_Tech\\CMPA-3301-D01\\Week8\\cameroncombs578.github.io-animal-habitats-and-adaptions\\directory\\about.html"
+        }
+    ]
+}
