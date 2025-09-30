@@ -1,5 +1,20 @@
 /* Webpage design*/
 
+.body{
+    background-color:antiquewhite;
+    font-size: 16;
+    font-family:'Times New Roman', Times, serif;
+}
+.normal-text{
+    color: black;
+    margin: 0px 10px 10px 10px;
+    padding: 0px 200px 30px 0px;
+}
+
+.header-text{
+    color:chocolate;
+}
+
 /* Animals */
 
 .bear img {
