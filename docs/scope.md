@@ -6,7 +6,7 @@ This project's purpose is to educate viewers about various kinds of mammals, rep
 
 ## Description 
 
-This project will fulfil its purpose by examining a selection of creatures from each continent in the world. This will be done by breaking up the website into multiple sections, each discussing animals that live on a certain continent. By collecting information on these creatures, this project will give accurate information on this topic. 
+This project will fulfill its purpose by examining a selection of creatures from each continent in the world. This will be done by breaking up the website into multiple sections, each discussing animals that live on a certain continent. By collecting information on these creatures, this project will give accurate information on this topic. 
 
 ## Desired Results 
 
