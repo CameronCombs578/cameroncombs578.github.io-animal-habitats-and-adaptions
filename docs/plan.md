@@ -22,4 +22,4 @@
 
 |Sep. 29| Sep. 30| Oct.1| Oct.2| 
 |-------|--------|------|------| 
-|Begin Desigining Stage: start to create my project based on my scope.|Content Designing: carry on creation process.|Review/edit Content: revisit and double check the quality and accuracy of my project.|Final Touches: complete project's last improvements.| 
+|Create README.md file and docs folder: create the project's README.md, plan.md, retrospective.md, and scope.md files.|Designing Prototype Project: start creation process of the project's prototype.|Designing Prototype Project Continuation: continue to create prototype by adding to the HTML and CSS files.|Final Touches: fix grammar and syntax issues.|

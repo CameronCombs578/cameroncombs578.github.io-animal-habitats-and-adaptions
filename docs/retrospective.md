@@ -1,3 +1,5 @@
+# Introduction
+I began to create my project by first working on setting up a GitHub repository that has Pages enabled. After this step I begin to create the README.md file, which explains the purpose of the file and gives a link to a prototype version of the project. After I set this up I started to create the docs folder, which contains the files plan.md, retrospective.md, and scope.md. I was able to create the plan.md based on a module for risk analysis and work schedule. The retrospective.md document was created to answer three main questions: what went well, what went wrong, and what I would do differently for future projects. I was able to modify my scope.md file after having it reviewed by fellow peers. After I created the docs folder, I created the HTML and CSS files, which make the prototype website functional. 
 # What went well
 During the creation stage of the project's repository, I was able to effectively publish my repository online using GitHub after past failures. Learning from these failures and following the exact steps to publish on GitHub made the project possible.
 # What went wrong
